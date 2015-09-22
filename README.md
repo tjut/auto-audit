@@ -1,9 +1,9 @@
 # WebDriver开发指引
 
 
-######欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
-######by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
-######账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
+#####欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
+#####by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
+#####账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
 
 
 如果您计划开发WebDriver程序，以下步骤可供您参考：
@@ -23,10 +23,9 @@
    WebDriver的文档非常丰富，要知道，这是一个很大的优势！！
    据我经验，几乎所有开发中遇到的问题，都已经有人遇到过了，并已经有完美的答案！
    
-5. 两大API文档手册不可缺：
-
-   http://www.seleniumhq.org/docs/03_webdriver.jsp
-   http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html
+5. 两大API文档手册不可缺： 
+   http://www.seleniumhq.org/docs/03_webdriver.jsp 
+   http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html 
    
    
 
