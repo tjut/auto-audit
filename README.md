@@ -1,11 +1,11 @@
 # WebDriver开发指引
 
-/*
-* 欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
-* by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
-*
-* 账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
-*/
+
+###欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
+###by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
+
+###账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
+
 
 如果您计划开发WebDriver程序，以下步骤可供您参考：
 1. 安装Python（https://www.python.org/downloads/）
@@ -13,6 +13,7 @@
    
 2. 使用pip安装WebDriver的python SDK，命令如下：
    >pip install selenium
+
    Python 3.5内置了pip程序，pip是python官方推荐的用来安装python package的工具。 
    selenium package包含了WebDriver SDK，而且还内置了FirefoxDriver驱动。
    
