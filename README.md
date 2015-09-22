@@ -1,13 +1,13 @@
 # WebDriver开发指引
 
 
-###欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
-###by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
-
-###账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
+######欢迎大家一起分享自己开发的WebDriver程序，共同构建一个国内图书馆业务自动化程序库！
+######by  TJUT-HZJ   （tjuthzj #at# 163.com  QQ251042514）
+######账号自动审核演示视频地址：http://v.youku.com/v_show/id_XMTM0MTE5MDEyMA==.html
 
 
 如果您计划开发WebDriver程序，以下步骤可供您参考：
+
 1. 安装Python（https://www.python.org/downloads/）
    建议安装python 3.5，因为pythong2.7在处理汉字时存在缺陷，会出现乱码问题。
    
